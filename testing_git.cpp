@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-	cout << "Hello git" << endl;
+	cout << "Hello git" << "42rgw" << "endl;
 	return 0;
 }
